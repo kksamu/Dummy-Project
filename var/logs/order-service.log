@@ -2288,3 +2288,11 @@ com.upgrad.orderservice.model.OrderException: Exception in placing order
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
 	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.45.jar!/:?]
 	at java.lang.Thread.run(Thread.java:829) [?:?]
+2022-06-06T20:54:42,809 [main] INFO  com.upgrad.orderservice.OrderService - Starting OrderService v1.0-SNAPSHOT using Java 11.0.15 on b60560bece1e with PID 1 (/order-service.jar started by root in /)
+2022-06-06T20:54:42,859 [main] DEBUG com.upgrad.orderservice.OrderService - Running with Spring Boot v2.4.5, Spring v5.3.6
+2022-06-06T20:54:42,862 [main] INFO  com.upgrad.orderservice.OrderService - No active profile set, falling back to default profiles: default
+2022-06-06T20:54:47,176 [main] INFO  com.upgrad.orderservice.OrderService - Started OrderService in 5.444 seconds (JVM running for 10.004)
+2022-06-06T20:56:13,235 [main] INFO  com.upgrad.orderservice.OrderService - Starting OrderService v1.0-SNAPSHOT using Java 11.0.15 on b60560bece1e with PID 1 (/order-service.jar started by root in /)
+2022-06-06T20:56:13,293 [main] DEBUG com.upgrad.orderservice.OrderService - Running with Spring Boot v2.4.5, Spring v5.3.6
+2022-06-06T20:56:13,304 [main] INFO  com.upgrad.orderservice.OrderService - No active profile set, falling back to default profiles: default
+2022-06-06T20:56:20,846 [main] INFO  com.upgrad.orderservice.OrderService - Started OrderService in 10.588 seconds (JVM running for 18.97)

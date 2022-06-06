@@ -1,0 +1,17 @@
+{
+	"ulid": "01G4XCTACRWZZDK14313Y87WBS",
+	"minTime": 1654027200689,
+	"maxTime": 1654034400000,
+	"stats": {
+		"numSamples": 50912,
+		"numSeries": 261,
+		"numChunks": 513
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01G4XCTACRWZZDK14313Y87WBS"
+		]
+	},
+	"version": 1
+}
