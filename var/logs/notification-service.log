@@ -1,0 +1,171 @@
+2021-06-11T06:49:05,650 [main] INFO  com.upgrad.notificationservice.NotificationService - Starting NotificationService v1.0-SNAPSHOT using Java 11.0.11 on f24d6e33fa35 with PID 1 (/notification-service.jar started by root in /)
+2021-06-11T06:49:05,705 [main] DEBUG com.upgrad.notificationservice.NotificationService - Running with Spring Boot v2.4.5, Spring v5.3.6
+2021-06-11T06:49:05,709 [main] INFO  com.upgrad.notificationservice.NotificationService - No active profile set, falling back to default profiles: default
+2021-06-11T06:49:08,035 [main] INFO  com.upgrad.notificationservice.NotificationService - Started NotificationService in 3.091 seconds (JVM running for 5.092)
+2021-06-11T07:00:42,344 [main] INFO  com.upgrad.notificationservice.NotificationService - Starting NotificationService v1.0-SNAPSHOT using Java 11.0.11 on 6a533d66e664 with PID 1 (/notification-service.jar started by root in /)
+2021-06-11T07:00:42,371 [main] DEBUG com.upgrad.notificationservice.NotificationService - Running with Spring Boot v2.4.5, Spring v5.3.6
+2021-06-11T07:00:42,383 [main] INFO  com.upgrad.notificationservice.NotificationService - No active profile set, falling back to default profiles: default
+2021-06-11T07:00:44,894 [main] INFO  com.upgrad.notificationservice.NotificationService - Started NotificationService in 3.967 seconds (JVM running for 7.888)
+2021-06-11T07:04:03,122 [main] INFO  com.upgrad.notificationservice.NotificationService - Starting NotificationService v1.0-SNAPSHOT using Java 11.0.11 on b669fe9017fb with PID 1 (/notification-service.jar started by root in /)
+2021-06-11T07:04:03,139 [main] DEBUG com.upgrad.notificationservice.NotificationService - Running with Spring Boot v2.4.5, Spring v5.3.6
+2021-06-11T07:04:03,141 [main] INFO  com.upgrad.notificationservice.NotificationService - No active profile set, falling back to default profiles: default
+2021-06-11T07:04:05,280 [main] INFO  com.upgrad.notificationservice.NotificationService - Started NotificationService in 2.933 seconds (JVM running for 5.944)
+2021-06-11T07:06:55,680 [main] INFO  com.upgrad.notificationservice.NotificationService - Starting NotificationService v1.0-SNAPSHOT using Java 11.0.11 on 61b1b7f6806d with PID 1 (/notification-service.jar started by root in /)
+2021-06-11T07:06:55,695 [main] DEBUG com.upgrad.notificationservice.NotificationService - Running with Spring Boot v2.4.5, Spring v5.3.6
+2021-06-11T07:06:55,697 [main] INFO  com.upgrad.notificationservice.NotificationService - No active profile set, falling back to default profiles: default
+2021-06-11T07:06:58,992 [main] INFO  com.upgrad.notificationservice.NotificationService - Started NotificationService in 3.89 seconds (JVM running for 5.789)
+2021-06-11T07:10:30,523 [main] INFO  com.upgrad.notificationservice.NotificationService - Starting NotificationService v1.0-SNAPSHOT using Java 11.0.11 on 2bdcd9bb1c22 with PID 1 (/notification-service.jar started by root in /)
+2021-06-11T07:10:30,558 [main] DEBUG com.upgrad.notificationservice.NotificationService - Running with Spring Boot v2.4.5, Spring v5.3.6
+2021-06-11T07:10:30,561 [main] INFO  com.upgrad.notificationservice.NotificationService - No active profile set, falling back to default profiles: default
+2021-06-11T07:10:36,262 [main] INFO  com.upgrad.notificationservice.NotificationService - Started NotificationService in 7.209 seconds (JVM running for 10.832)
+2022-05-30T19:56:44,861 [main] INFO  com.upgrad.notificationservice.NotificationService - Starting NotificationService v1.0-SNAPSHOT using Java 11.0.15 on ab0e5638a234 with PID 1 (/notification-service.jar started by root in /)
+2022-05-30T19:56:44,876 [main] DEBUG com.upgrad.notificationservice.NotificationService - Running with Spring Boot v2.4.5, Spring v5.3.6
+2022-05-30T19:56:44,877 [main] INFO  com.upgrad.notificationservice.NotificationService - No active profile set, falling back to default profiles: default
+2022-05-30T19:56:48,276 [main] INFO  com.upgrad.notificationservice.NotificationService - Started NotificationService in 3.805 seconds (JVM running for 5.561)
+2022-05-30T20:31:57,379 [main] INFO  com.upgrad.notificationservice.NotificationService - Starting NotificationService v1.0-SNAPSHOT using Java 11.0.15 on 53fd05487c7a with PID 1 (/notification-service.jar started by root in /)
+2022-05-30T20:31:57,397 [main] DEBUG com.upgrad.notificationservice.NotificationService - Running with Spring Boot v2.4.5, Spring v5.3.6
+2022-05-30T20:31:57,401 [main] INFO  com.upgrad.notificationservice.NotificationService - No active profile set, falling back to default profiles: default
+2022-05-30T20:32:03,100 [main] INFO  com.upgrad.notificationservice.NotificationService - Started NotificationService in 7.183 seconds (JVM running for 11.89)
+2022-05-30T20:37:46,687 [main] INFO  com.upgrad.notificationservice.NotificationService - Starting NotificationService v1.0-SNAPSHOT using Java 11.0.15 on bf7f84214590 with PID 1 (/notification-service.jar started by root in /)
+2022-05-30T20:37:46,821 [main] DEBUG com.upgrad.notificationservice.NotificationService - Running with Spring Boot v2.4.5, Spring v5.3.6
+2022-05-30T20:37:46,831 [main] INFO  com.upgrad.notificationservice.NotificationService - No active profile set, falling back to default profiles: default
+2022-05-30T20:37:52,647 [main] INFO  com.upgrad.notificationservice.NotificationService - Started NotificationService in 7.476 seconds (JVM running for 11.747)
+2022-05-30T20:40:59,783 [main] INFO  com.upgrad.notificationservice.NotificationService - Starting NotificationService v1.0-SNAPSHOT using Java 11.0.15 on bf7f84214590 with PID 1 (/notification-service.jar started by root in /)
+2022-05-30T20:40:59,835 [main] DEBUG com.upgrad.notificationservice.NotificationService - Running with Spring Boot v2.4.5, Spring v5.3.6
+2022-05-30T20:40:59,910 [main] INFO  com.upgrad.notificationservice.NotificationService - No active profile set, falling back to default profiles: default
+2022-05-30T20:41:05,549 [main] INFO  com.upgrad.notificationservice.NotificationService - Started NotificationService in 6.989 seconds (JVM running for 10.992)
+2022-05-30T20:53:09,083 [main] INFO  com.upgrad.notificationservice.NotificationService - Starting NotificationService v1.0-SNAPSHOT using Java 11.0.15 on f7e5cbde759b with PID 1 (/notification-service.jar started by root in /)
+2022-05-30T20:53:09,137 [main] DEBUG com.upgrad.notificationservice.NotificationService - Running with Spring Boot v2.4.5, Spring v5.3.6
+2022-05-30T20:53:09,147 [main] INFO  com.upgrad.notificationservice.NotificationService - No active profile set, falling back to default profiles: default
+2022-05-30T20:53:14,598 [main] INFO  com.upgrad.notificationservice.NotificationService - Started NotificationService in 6.865 seconds (JVM running for 11.273)
+2022-05-30T20:54:52,315 [main] INFO  com.upgrad.notificationservice.NotificationService - Starting NotificationService v1.0-SNAPSHOT using Java 11.0.15 on f7e5cbde759b with PID 1 (/notification-service.jar started by root in /)
+2022-05-30T20:54:52,390 [main] DEBUG com.upgrad.notificationservice.NotificationService - Running with Spring Boot v2.4.5, Spring v5.3.6
+2022-05-30T20:54:52,400 [main] INFO  com.upgrad.notificationservice.NotificationService - No active profile set, falling back to default profiles: default
+2022-05-30T20:54:58,805 [main] INFO  com.upgrad.notificationservice.NotificationService - Started NotificationService in 8.212 seconds (JVM running for 12.149)
+2022-05-30T21:00:42,164 [main] INFO  com.upgrad.notificationservice.NotificationService - Starting NotificationService v1.0-SNAPSHOT using Java 11.0.15 on 4feb62d30ab4 with PID 1 (/notification-service.jar started by root in /)
+2022-05-30T21:00:42,190 [main] DEBUG com.upgrad.notificationservice.NotificationService - Running with Spring Boot v2.4.5, Spring v5.3.6
+2022-05-30T21:00:42,197 [main] INFO  com.upgrad.notificationservice.NotificationService - No active profile set, falling back to default profiles: default
+2022-05-30T21:00:48,136 [main] INFO  com.upgrad.notificationservice.NotificationService - Started NotificationService in 7.53 seconds (JVM running for 12.357)
+2022-05-30T21:10:15,694 [main] INFO  com.upgrad.notificationservice.NotificationService - Starting NotificationService v1.0-SNAPSHOT using Java 11.0.15 on 4feb62d30ab4 with PID 1 (/notification-service.jar started by root in /)
+2022-05-30T21:10:15,741 [main] DEBUG com.upgrad.notificationservice.NotificationService - Running with Spring Boot v2.4.5, Spring v5.3.6
+2022-05-30T21:10:15,750 [main] INFO  com.upgrad.notificationservice.NotificationService - No active profile set, falling back to default profiles: default
+2022-05-30T21:10:22,047 [main] INFO  com.upgrad.notificationservice.NotificationService - Started NotificationService in 7.907 seconds (JVM running for 12.031)
+2022-05-31T02:42:33,403 [main] INFO  com.upgrad.notificationservice.NotificationService - Starting NotificationService using Java 11.0.13 on LAPTOP-9TI9S8AT with PID 21656 (C:\upgard\C3-handson\M3\ecommerce\notification-service\target\classes started by samue in C:\upgard\C3-handson\M3\ecommerce)
+2022-05-31T02:42:33,418 [main] DEBUG com.upgrad.notificationservice.NotificationService - Running with Spring Boot v2.4.5, Spring v5.3.6
+2022-05-31T02:42:33,418 [main] INFO  com.upgrad.notificationservice.NotificationService - No active profile set, falling back to default profiles: default
+2022-05-31T02:42:35,063 [main] INFO  com.upgrad.notificationservice.NotificationService - Started NotificationService in 2.049 seconds (JVM running for 4.076)
+2022-05-30T21:16:36,766 [main] INFO  com.upgrad.notificationservice.NotificationService - Starting NotificationService v1.0-SNAPSHOT using Java 11.0.15 on 860ab2a2e3bd with PID 1 (/notification-service.jar started by root in /)
+2022-05-30T21:16:36,832 [main] DEBUG com.upgrad.notificationservice.NotificationService - Running with Spring Boot v2.4.5, Spring v5.3.6
+2022-05-30T21:16:36,835 [main] INFO  com.upgrad.notificationservice.NotificationService - No active profile set, falling back to default profiles: default
+2022-05-30T21:16:42,695 [main] INFO  com.upgrad.notificationservice.NotificationService - Started NotificationService in 7.191 seconds (JVM running for 11.324)
+2022-05-30T21:19:50,588 [main] INFO  com.upgrad.notificationservice.NotificationService - Starting NotificationService v1.0-SNAPSHOT using Java 11.0.15 on 63d4c46b52b3 with PID 1 (/notification-service.jar started by root in /)
+2022-05-30T21:19:50,647 [main] DEBUG com.upgrad.notificationservice.NotificationService - Running with Spring Boot v2.4.5, Spring v5.3.6
+2022-05-30T21:19:50,651 [main] INFO  com.upgrad.notificationservice.NotificationService - No active profile set, falling back to default profiles: default
+2022-05-30T21:19:57,029 [main] INFO  com.upgrad.notificationservice.NotificationService - Started NotificationService in 7.863 seconds (JVM running for 11.809)
+2022-05-31T05:19:34,820 [main] INFO  com.upgrad.notificationservice.NotificationService - Starting NotificationService v1.0-SNAPSHOT using Java 11.0.15 on 450cc61f8495 with PID 1 (/notification-service.jar started by root in /)
+2022-05-31T05:19:34,865 [main] DEBUG com.upgrad.notificationservice.NotificationService - Running with Spring Boot v2.4.5, Spring v5.3.6
+2022-05-31T05:19:34,870 [main] INFO  com.upgrad.notificationservice.NotificationService - No active profile set, falling back to default profiles: default
+2022-05-31T05:19:40,856 [main] INFO  com.upgrad.notificationservice.NotificationService - Started NotificationService in 7.962 seconds (JVM running for 12.306)
+2022-05-31T05:27:38,491 [main] INFO  com.upgrad.notificationservice.NotificationService - Starting NotificationService v1.0-SNAPSHOT using Java 11.0.15 on 450cc61f8495 with PID 1 (/notification-service.jar started by root in /)
+2022-05-31T05:27:38,537 [main] DEBUG com.upgrad.notificationservice.NotificationService - Running with Spring Boot v2.4.5, Spring v5.3.6
+2022-05-31T05:27:38,540 [main] INFO  com.upgrad.notificationservice.NotificationService - No active profile set, falling back to default profiles: default
+2022-05-31T05:27:45,003 [main] INFO  com.upgrad.notificationservice.NotificationService - Started NotificationService in 8.323 seconds (JVM running for 12.643)
+2022-05-31T05:37:57,148 [main] INFO  com.upgrad.notificationservice.NotificationService - Starting NotificationService v1.0-SNAPSHOT using Java 11.0.15 on a36b198fbd7a with PID 1 (/notification-service.jar started by root in /)
+2022-05-31T05:37:57,221 [main] DEBUG com.upgrad.notificationservice.NotificationService - Running with Spring Boot v2.4.5, Spring v5.3.6
+2022-05-31T05:37:57,224 [main] INFO  com.upgrad.notificationservice.NotificationService - No active profile set, falling back to default profiles: default
+2022-05-31T05:38:02,990 [main] INFO  com.upgrad.notificationservice.NotificationService - Started NotificationService in 7.193 seconds (JVM running for 11.462)
+2022-05-31T05:38:31,428 [http-nio-8090-exec-2] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T18:02:52,702 [main] INFO  com.upgrad.notificationservice.NotificationService - Starting NotificationService v1.0-SNAPSHOT using Java 11.0.15 on a36b198fbd7a with PID 1 (/notification-service.jar started by root in /)
+2022-05-31T18:02:52,785 [main] DEBUG com.upgrad.notificationservice.NotificationService - Running with Spring Boot v2.4.5, Spring v5.3.6
+2022-05-31T18:02:52,788 [main] INFO  com.upgrad.notificationservice.NotificationService - No active profile set, falling back to default profiles: default
+2022-05-31T18:03:01,147 [main] INFO  com.upgrad.notificationservice.NotificationService - Started NotificationService in 10.527 seconds (JVM running for 14.719)
+2022-05-31T18:03:53,613 [http-nio-8090-exec-1] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T18:23:23,708 [http-nio-8090-exec-3] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T18:23:28,197 [http-nio-8090-exec-2] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T18:23:33,799 [http-nio-8090-exec-5] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T19:35:10,016 [main] INFO  com.upgrad.notificationservice.NotificationService - Starting NotificationService v1.0-SNAPSHOT using Java 11.0.15 on 84228419dce7 with PID 1 (/notification-service.jar started by root in /)
+2022-05-31T19:35:10,044 [main] DEBUG com.upgrad.notificationservice.NotificationService - Running with Spring Boot v2.4.5, Spring v5.3.6
+2022-05-31T19:35:10,051 [main] INFO  com.upgrad.notificationservice.NotificationService - No active profile set, falling back to default profiles: default
+2022-05-31T19:35:16,209 [main] INFO  com.upgrad.notificationservice.NotificationService - Started NotificationService in 7.738 seconds (JVM running for 12.196)
+2022-05-31T19:36:00,514 [http-nio-8090-exec-3] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T19:37:20,236 [http-nio-8090-exec-1] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T19:37:36,291 [http-nio-8090-exec-3] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T19:39:00,368 [http-nio-8090-exec-10] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T19:40:42,949 [http-nio-8090-exec-9] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T19:53:22,041 [main] INFO  com.upgrad.notificationservice.NotificationService - Starting NotificationService v1.0-SNAPSHOT using Java 11.0.15 on 98ec48bcf648 with PID 1 (/notification-service.jar started by root in /)
+2022-05-31T19:53:22,176 [main] DEBUG com.upgrad.notificationservice.NotificationService - Running with Spring Boot v2.4.5, Spring v5.3.6
+2022-05-31T19:53:22,178 [main] INFO  com.upgrad.notificationservice.NotificationService - No active profile set, falling back to default profiles: default
+2022-05-31T19:53:27,951 [main] INFO  com.upgrad.notificationservice.NotificationService - Started NotificationService in 7.888 seconds (JVM running for 12.229)
+2022-05-31T20:11:01,057 [http-nio-8090-exec-3] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:11:03,324 [http-nio-8090-exec-2] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:11:04,380 [http-nio-8090-exec-5] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:11:05,675 [http-nio-8090-exec-6] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:11:07,075 [http-nio-8090-exec-4] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:11:08,213 [http-nio-8090-exec-7] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:11:08,726 [http-nio-8090-exec-8] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:11:09,146 [http-nio-8090-exec-9] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:11:09,566 [http-nio-8090-exec-10] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:11:10,171 [http-nio-8090-exec-1] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:11:10,561 [http-nio-8090-exec-3] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:11:12,144 [http-nio-8090-exec-2] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:11:13,399 [http-nio-8090-exec-5] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:11:14,562 [http-nio-8090-exec-6] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:14:32,366 [http-nio-8090-exec-1] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:14:34,093 [http-nio-8090-exec-3] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:14:35,370 [http-nio-8090-exec-2] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:14:36,464 [http-nio-8090-exec-5] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:14:37,664 [http-nio-8090-exec-6] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:14:38,483 [http-nio-8090-exec-4] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:14:38,900 [http-nio-8090-exec-7] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:14:39,341 [http-nio-8090-exec-8] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:14:39,786 [http-nio-8090-exec-9] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:14:40,266 [http-nio-8090-exec-10] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:14:40,757 [http-nio-8090-exec-1] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:14:41,164 [http-nio-8090-exec-3] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:14:41,597 [http-nio-8090-exec-2] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:14:42,040 [http-nio-8090-exec-5] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:14:42,474 [http-nio-8090-exec-6] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:14:42,966 [http-nio-8090-exec-4] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:14:43,540 [http-nio-8090-exec-7] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:20:11,032 [http-nio-8090-exec-1] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:20:12,544 [http-nio-8090-exec-3] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:20:13,777 [http-nio-8090-exec-2] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:20:14,840 [http-nio-8090-exec-5] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:22:27,337 [http-nio-8090-exec-6] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to samuelkk@gmail.com
+2022-05-31T20:22:55,035 [http-nio-8090-exec-8] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:27:12,943 [http-nio-8090-exec-7] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:27:15,111 [http-nio-8090-exec-8] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:27:16,771 [http-nio-8090-exec-10] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:27:18,906 [http-nio-8090-exec-1] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:27:20,410 [http-nio-8090-exec-3] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:27:21,920 [http-nio-8090-exec-2] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:35:29,659 [http-nio-8090-exec-7] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:35:51,096 [http-nio-8090-exec-10] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:35:55,101 [http-nio-8090-exec-1] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:35:56,702 [http-nio-8090-exec-3] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:36:01,005 [http-nio-8090-exec-5] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:36:03,428 [http-nio-8090-exec-6] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:36:03,906 [http-nio-8090-exec-4] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:36:04,360 [http-nio-8090-exec-7] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:36:04,805 [http-nio-8090-exec-8] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:36:05,229 [http-nio-8090-exec-9] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:36:05,638 [http-nio-8090-exec-10] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:36:06,177 [http-nio-8090-exec-1] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:36:06,713 [http-nio-8090-exec-3] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:36:07,121 [http-nio-8090-exec-2] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:36:07,645 [http-nio-8090-exec-5] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:36:08,085 [http-nio-8090-exec-6] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:36:08,543 [http-nio-8090-exec-4] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:36:09,004 [http-nio-8090-exec-7] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:36:10,307 [http-nio-8090-exec-8] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:36:10,818 [http-nio-8090-exec-9] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:36:11,284 [http-nio-8090-exec-10] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:36:11,760 [http-nio-8090-exec-1] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:36:12,149 [http-nio-8090-exec-3] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:36:12,605 [http-nio-8090-exec-2] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:36:13,029 [http-nio-8090-exec-5] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:36:13,463 [http-nio-8090-exec-6] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:36:13,993 [http-nio-8090-exec-4] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:36:14,455 [http-nio-8090-exec-7] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:36:15,011 [http-nio-8090-exec-8] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
+2022-05-31T20:36:15,608 [http-nio-8090-exec-9] INFO  com.upgrad.notificationservice.controller.NotificationController - Successfully send to sanju@gmail.com
