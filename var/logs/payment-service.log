@@ -1574,3 +1574,7 @@ com.upgrad.paymentservice.model.PaymentException: Unable to process payment
 2022-06-06T20:54:32,466 [main] DEBUG com.upgrad.paymentservice.PaymentService - Running with Spring Boot v2.4.5, Spring v5.3.6
 2022-06-06T20:54:32,469 [main] INFO  com.upgrad.paymentservice.PaymentService - No active profile set, falling back to default profiles: default
 2022-06-06T20:54:39,515 [main] INFO  com.upgrad.paymentservice.PaymentService - Started PaymentService in 8.034 seconds (JVM running for 10.25)
+2022-06-06T20:55:58,381 [main] INFO  com.upgrad.paymentservice.PaymentService - Starting PaymentService v1.0-SNAPSHOT using Java 11.0.15 on a41ebca2af09 with PID 1 (/payment-service.jar started by root in /)
+2022-06-06T20:55:58,400 [main] DEBUG com.upgrad.paymentservice.PaymentService - Running with Spring Boot v2.4.5, Spring v5.3.6
+2022-06-06T20:55:58,425 [main] INFO  com.upgrad.paymentservice.PaymentService - No active profile set, falling back to default profiles: default
+2022-06-06T20:56:08,445 [main] INFO  com.upgrad.paymentservice.PaymentService - Started PaymentService in 10.793 seconds (JVM running for 12.768)
