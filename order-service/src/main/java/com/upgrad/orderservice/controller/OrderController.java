@@ -11,6 +11,8 @@ import org.slf4j.LoggerFactory;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
+import java.time.LocalDateTime;
+
 @RestController
 @AllArgsConstructor
 @RequestMapping("/orders")
@@ -40,6 +42,6 @@ public final class OrderController {
   }
   @GetMapping(value = "/live-status")
    public ResponseEntity appStatus(){
-    return ResponseEntity.ok().body("Your Application is running");
+    return ResponseEntity.ok().body("Your Application is running fine"+ LocalDateTime.now());
    }
 }

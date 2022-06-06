@@ -1570,3 +1570,7 @@ com.upgrad.paymentservice.model.PaymentException: Unable to process payment
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
 	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.45.jar!/:?]
 	at java.lang.Thread.run(Thread.java:829) [?:?]
+2022-06-06T20:54:32,443 [main] INFO  com.upgrad.paymentservice.PaymentService - Starting PaymentService v1.0-SNAPSHOT using Java 11.0.15 on a41ebca2af09 with PID 1 (/payment-service.jar started by root in /)
+2022-06-06T20:54:32,466 [main] DEBUG com.upgrad.paymentservice.PaymentService - Running with Spring Boot v2.4.5, Spring v5.3.6
+2022-06-06T20:54:32,469 [main] INFO  com.upgrad.paymentservice.PaymentService - No active profile set, falling back to default profiles: default
+2022-06-06T20:54:39,515 [main] INFO  com.upgrad.paymentservice.PaymentService - Started PaymentService in 8.034 seconds (JVM running for 10.25)

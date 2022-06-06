@@ -485,3 +485,7 @@ com.upgrad.inventoryservice.model.InventoryException: Item not available
 2022-05-31T20:36:14,440 [http-nio-8071-exec-5] INFO  com.upgrad.inventoryservice.controller.InventoryController - Found item with item-id:9
 2022-05-31T20:36:14,994 [http-nio-8071-exec-8] INFO  com.upgrad.inventoryservice.controller.InventoryController - Found item with item-id:9
 2022-05-31T20:36:15,586 [http-nio-8071-exec-9] INFO  com.upgrad.inventoryservice.controller.InventoryController - Found item with item-id:9
+2022-06-06T20:54:35,289 [main] INFO  com.upgrad.inventoryservice.InventoryService - Starting InventoryService v1.0-SNAPSHOT using Java 11.0.15 on 9dc94c6d853e with PID 1 (/inventory-service.jar started by root in /)
+2022-06-06T20:54:35,308 [main] DEBUG com.upgrad.inventoryservice.InventoryService - Running with Spring Boot v2.4.5, Spring v5.3.6
+2022-06-06T20:54:35,312 [main] INFO  com.upgrad.inventoryservice.InventoryService - No active profile set, falling back to default profiles: default
+2022-06-06T20:54:42,725 [main] INFO  com.upgrad.inventoryservice.InventoryService - Started InventoryService in 8.611 seconds (JVM running for 11.317)
